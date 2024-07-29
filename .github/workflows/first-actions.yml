@@ -26,3 +26,5 @@ jobs:
       run: |
         cd src
         python -m pytest addition.py
+        python -m pytest multiply.py
+        python -m pytest subtract.py
