@@ -1,5 +1,5 @@
 # app.py
-# This is a the addition functionality
+# This is a the subtraction functionality
 
 def subtract(a, b):
     return a - b
